@@ -1,5 +1,5 @@
 # Java 8 environment with JavaFX
-FROM dgricci/java:0.0.1
+FROM dgricci/java:0.0.2
 MAINTAINER Didier Richard <didier.richard@ign.fr>
 
 ## install JavaFX not yet part of OpenJDK 8
